@@ -1,0 +1,15 @@
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.sourcelink.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\bin\Debug\net9.0\IMS.exe
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\bin\Debug\net9.0\IMS.deps.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\bin\Debug\net9.0\IMS.runtimeconfig.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\bin\Debug\net9.0\IMS.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\bin\Debug\net9.0\IMS.pdb
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\refint\IMS.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.pdb
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\IMS.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture3\IMS\obj\Debug\net9.0\ref\IMS.dll

@@ -1,0 +1,15 @@
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\bin\Debug\net9.0\PROJECT1.exe
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\bin\Debug\net9.0\PROJECT1.deps.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\bin\Debug\net9.0\PROJECT1.runtimeconfig.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\bin\Debug\net9.0\PROJECT1.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\bin\Debug\net9.0\PROJECT1.pdb
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.sourcelink.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\refint\PROJECT1.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.pdb
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\PROJECT1.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Homework Project1\obj\Debug\net9.0\ref\PROJECT1.dll
