@@ -1,0 +1,15 @@
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\bin\Debug\net9.0\Lecture4DoWhile.exe
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\bin\Debug\net9.0\Lecture4DoWhile.deps.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\bin\Debug\net9.0\Lecture4DoWhile.runtimeconfig.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\bin\Debug\net9.0\Lecture4DoWhile.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\bin\Debug\net9.0\Lecture4DoWhile.pdb
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.sourcelink.json
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\refint\Lecture4DoWhile.dll
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.pdb
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\Lecture4DoWhile.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\Github\FarcasAndreiAlexandru\Lecture4DoWhile\obj\Debug\net9.0\ref\Lecture4DoWhile.dll
